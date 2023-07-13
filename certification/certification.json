@@ -89,7 +89,7 @@
 
         "name": "Computer Basics",
         "by": "GCF Global",
-        "image": "./certification/Computer-basic-1.png",
+        "image": "./certification/Computer-Basic-1.png",
         "category":"programming",
         "links": {
             "credentials": "https://account.gcfglobal.org/verify/B_nkcwuTPCAcoZEC"
@@ -100,7 +100,7 @@
 
         "name": "Internet Basics",
         "by": "GCF Global",
-        "image": "./certification/Internet-basic.png",
+        "image": "./certification/Internet-Basic.png",
         "category":"programming",
         "links": {
             "credentials": "https://account.gcfglobal.org/verify/mLmbYV7pWPLk6qrE"
