@@ -1,0 +1,143 @@
+[
+    {
+        "name": "Starting the Programming Basics to Become a Software Developer",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/software-development.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/81P23OO7JXOY"
+        }
+    },
+    {
+
+        "name": "Introduction to Programming Logic (Programming Logic 101)",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/programming-logic.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/MRZMQWY0NPYQ"
+        }
+    }
+    ,
+    {
+       
+        "name": "Software Engineering series: Frontend Development",
+        "by": "MySkill",
+        "image": "./certification/Front-end.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://myskill.id/bootcamp/batch/Ooa4x9hEzhFxfD3w5YuM"
+        }
+    }
+    ,
+    {
+
+        "name": "Front End Development - HTML",
+        "by": "Great Learning",
+        "image": "./certification/Front-end-html.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://olympus.mygreatlearning.com/courses/12761/certificate"
+        }
+    }
+    ,
+    {
+
+        "name": "Front End Development - CSS",
+        "by": "Great Learning",
+        "image": "./certification/Front-end-css.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://olympus.mygreatlearning.com/courses/12800/certificate"
+        }
+    }
+    ,
+    {
+
+        "name": "Learn Git Basics with GitHub",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/git.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/1OP80RQLQXQK"
+        }
+    }
+    ,
+    {
+
+        "name": "Simple Coding",
+        "by": "OpenLearn",
+        "image": "./certification/simple-coding.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.open.edu/openlearn/science-maths-technology/simple-coding/content-section-0"
+        }
+    }
+    ,
+    {
+
+        "name": "An introduction to web applications architecture",
+        "by": "OpenLearn",
+        "image": "./certification/web-architectur.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-web-applications-architecture/content-section-0"
+        }
+    }
+    ,
+    {
+
+        "name": "Computer Basics",
+        "by": "GCF Global",
+        "image": "./certification/Computer-basic-1.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://account.gcfglobal.org/verify/B_nkcwuTPCAcoZEC"
+        }
+    }
+    ,
+    {
+
+        "name": "Internet Basics",
+        "by": "GCF Global",
+        "image": "./certification/Internet-basic.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://account.gcfglobal.org/verify/mLmbYV7pWPLk6qrE"
+        }
+    }
+    ,
+    {
+
+        "name": "Belajar Dasar Manajemen Proyek",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/management-project.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/6RPNW7VQ8P2M"
+        }
+    }
+    ,
+    {
+
+        "name": "Learn Google Cloud Basics",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/google-cloud.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/N9ZO6NW28XG5"
+        }
+    }
+    ,
+    {
+
+        "name": "Learn Basic Data Visualization",
+        "by": "Dicoding Indonesia",
+        "image": "./certification/visualisasi-data.png",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.dicoding.com/certificates/EYX46QJVRPDL"
+        }
+    }
+    
+]

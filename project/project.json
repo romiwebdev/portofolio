@@ -1,0 +1,51 @@
+[
+    
+    {
+        "title": "Coffee Store",
+        "tech": "HTML, CSS, & JS",
+        "image": "./assets/img/project/Coffee-Store.jpeg",
+        "desc":"This Website Coffee Store",
+        "links": {
+            "view": "https://romincuy.github.io/RomynCoffeeStore/",
+            "code": "https://github.com/romincuy/RomynCoffeeStore"
+        }
+    },{
+        "title": "Web Development Services",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/web-jasa.jpeg",
+        "desc":"This website offers website creation services",
+        "links": {
+            "view": "https://romincuy.github.io/web-development-services/",
+            "code": "https://github.com/romincuy/Web-development-services"
+        }
+    },{
+        "title": "Fake Bot",
+        "tech": "HTML, CSS, & JS",
+        "image": "./assets/img/project/rom-bot.jpeg",
+        "desc": "This bot asks questions and answers according to your answers",
+        "links": {
+            "view": "https://romincuy.github.io/rom.bot/",
+            "code": "https://github.com/romincuy/rom.bot"
+        }
+    },
+    {
+        "title": "Password Generator",
+        "tech": "HTML, CSS, & JS",
+        "image": "./assets/img/project/password-gen.jpeg",
+        "desc":"This website can generate you a random password and you can download it",
+        "links": {
+            "view": "https://romincuy.github.io/password-generator/",
+            "code": "https://github.com/romincuy/password-generator"
+        }
+    }
+    ,{
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/romin-portofolio.jpeg",
+        "desc": "This is my project for personal portfolio.",
+        "links": {
+            "view": "https://romincuy.github.io/portofolio/",
+            "code": "https://github.com/romincuy/portofolio"
+        }
+    }
+]
