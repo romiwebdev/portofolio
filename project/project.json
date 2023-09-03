@@ -1,6 +1,15 @@
 [
     
     {
+        "title": "Website SMAN 3 Bojonegoro",
+        "tech": "React JS & Bootstrap",
+        "image": "./assets/img/project/sma3.jpeg",
+        "desc":"This Website SMAN 3 Bojonegoro",
+        "links": {
+            "view": "https://romincuy.github.io/sman3bojonegoro/",
+            "code": "https://github.com/romincuy/sman3bojonegoro"
+        }
+    },{
         "title": "Coffee Store",
         "tech": "HTML, CSS, & JS",
         "image": "./assets/img/project/Coffee-Store.jpeg",
@@ -10,13 +19,13 @@
             "code": "https://github.com/romincuy/RomynCoffeeStore"
         }
     },{
-        "title": "Web Development Services",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/web-jasa.jpeg",
-        "desc":"This website offers website creation services",
+        "title": "Portfolio Website",
+        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "image": "./assets/img/project/romin-portofolio.jpeg",
+        "desc": "This is my project for personal portfolio.",
         "links": {
-            "view": "https://romincuy.github.io/web-development-services/",
-            "code": "https://github.com/romincuy/Web-development-services"
+            "view": "https://romincuy.github.io/portofolio/",
+            "code": "https://github.com/romincuy/portofolio"
         }
     },{
         "title": "Fake Bot",
@@ -39,13 +48,13 @@
         }
     }
     ,{
-        "title": "Portfolio Website",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/romin-portofolio.jpeg",
-        "desc": "This is my project for personal portfolio.",
+        "title": "Web Development Services",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/web-jasa.jpeg",
+        "desc":"This website offers website creation services",
         "links": {
-            "view": "https://romincuy.github.io/portofolio/",
-            "code": "https://github.com/romincuy/portofolio"
+            "view": "https://romincuy.github.io/web-development-services/",
+            "code": "https://github.com/romincuy/Web-development-services"
         }
     }
 ]
