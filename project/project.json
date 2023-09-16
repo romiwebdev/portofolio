@@ -28,6 +28,15 @@
             "code": "https://github.com/romincuy/portofolio"
         }
     },{
+        "title": "Vidio Player",
+        "tech": "HTML, CSS, JS",
+        "image": "./assets/img/project/vidio-player.jpeg",
+        "desc": "This is vidio player karawitan.",
+        "links": {
+            "view": "https://romincuy.github.io/vidio-karawitan/",
+            "code": "https://github.com/romincuy/vidio-karawitan"
+        }
+    },{
         "title": "Fake Bot",
         "tech": "HTML, CSS, & JS",
         "image": "./assets/img/project/rom-bot.jpeg",
