@@ -10,7 +10,7 @@
     },  {
         "name": "Learn to Networking Basics",
         "by": "Cisco Networking Academy x IdCamp",
-        "image": "./certification/networkingBasic.JPG",
+        "image": "./certification/networkingBasics.JPG",
         "category":"programming",
         "links": {
             "credentials": "https://www.credly.com/go/aPL4uPzO"
