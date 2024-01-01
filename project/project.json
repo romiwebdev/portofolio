@@ -66,6 +66,15 @@
         }
     }
     ,{
+        "title": "Form Registration",
+        "tech": "HTML & CSS",
+        "image": "./assets/img/project/formRegistration.jpeg",
+        "desc": "this is a to form registration website",
+        "links": {
+            "view": "https://romincuy.github.io/formRegistration/",
+            "code": "https://github.com/romincuy/formRegistration"
+        }
+    },{
         "title": "Web Development Services",
         "tech": "HTML & CSS",
         "image": "./assets/img/project/web-jasa.jpeg",
