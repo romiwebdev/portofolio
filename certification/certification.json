@@ -8,22 +8,6 @@
             "credentials": "https://www.freecodecamp.org/certification/romyn10/responsive-web-design"
         }
     }, {
-        "name": "Learn to Introduction to Cyber Security",
-        "by": "Cisco Networking Academy x IdCamp",
-        "image": "./certification/cyberSecurity.jpg",
-        "category":"programming",
-        "links": {
-            "credentials": "https://www.credly.com/go/u7lBCDZF"
-        }
-    },  {
-        "name": "Learn to Networking Basics",
-        "by": "Cisco Networking Academy x IdCamp",
-        "image": "./certification/networkingBasics.jpg",
-        "category":"programming",
-        "links": {
-            "credentials": "https://www.credly.com/go/aPL4uPzO"
-        }
-    }, {
         "name": "Learn to Create Web Apps with React",
         "by": "Dicoding Indonesia",
         "image": "./certification/react-dasar.jpg",
@@ -107,8 +91,23 @@
             "credentials": "https://olympus.mygreatlearning.com/courses/12800/certificate"
         }
     }
-    ,
-    {
+    ,{
+        "name": "Learn to Introduction to Cyber Security",
+        "by": "Cisco Networking Academy x IdCamp",
+        "image": "./certification/cyberSecurity.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.credly.com/go/u7lBCDZF"
+        }
+    },  {
+        "name": "Learn to Networking Basics",
+        "by": "Cisco Networking Academy x IdCamp",
+        "image": "./certification/networkingBasics.jpg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://www.credly.com/go/aPL4uPzO"
+        }
+    },{
 
         "name": "Learn Git Basics with GitHub",
         "by": "Dicoding Indonesia",
@@ -117,9 +116,7 @@
         "links": {
             "credentials": "https://www.dicoding.com/certificates/1OP80RQLQXQK"
         }
-    }
-    ,
-    {
+    },{
 
         "name": "Simple Coding",
         "by": "OpenLearn",
@@ -194,6 +191,23 @@
         "links": {
             "credentials": "https://www.dicoding.com/certificates/EYX46QJVRPDL"
         }
+    },{
+
+        "name": "Gold Medal of Informatics (OSN-AT)",
+        "by": "FOSNAS",
+        "image": "./certification/OSN-AT.JPEG",
+        "category":"academic",
+        "links": {
+            "credentials": "https://app.puskanas.id/#piaghappyNlFiZC9JR3lxdjVIdWkwSzIrTEY2dz09"
+        }
+    },{
+
+        "name": "Gold Medal of Informatics (ONSB)",
+        "by": "BRAINDICATOR",
+        "image": "./certification/ONSB.JPEG",
+        "category":"academic",
+        "links": {
+            "credentials": "https://cbt.pusatprestasi.id/#piaghappyOHlyZXJKTlJrSzErTXZ0VUZ1TmdEZz09"
+        }
     }
-    
 ]
