@@ -28,6 +28,15 @@
             "code": "https://github.com/romincuy/portofolio"
         }
     },{
+        "title": "E-Kantin",
+        "tech": "PHP & MYSQL",
+        "image": "./assets/img/project/kantinsma3.jpeg",
+        "desc":"This Website E-Kantin SMAN 3 Bojonegoro",
+        "links": {
+            "view": "http://kantinsma3bjn.000.pe/",
+            "code": "https://github.com/romincuy/kantinsma3bjn"
+        }
+    },{
         "title": "Vidio Player",
         "tech": "HTML, CSS, JS",
         "image": "./assets/img/project/vidio-player.jpeg",
