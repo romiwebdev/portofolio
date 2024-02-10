@@ -19,8 +19,17 @@
             "code": "https://github.com/romincuy/RomynCoffeeStore"
         }
     },{
+        "title": "Web Class",
+        "tech": "BOOTSTRAP",
+        "image": "./assets/img/project/infinithree.jpeg",
+        "desc":"This Website Class XI-3 SMAN 3 Bojonegoro",
+        "links": {
+            "view": "https://infinithreesmaga.vercel.app/",
+            "code": "https://github.com/romincuy/infinithree"
+        }
+    },{
         "title": "Portfolio Website",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
+        "tech": "BOOTSTRAP",
         "image": "./assets/img/project/romin-portofolio.jpeg",
         "desc": "This is my project for personal portfolio.",
         "links": {
