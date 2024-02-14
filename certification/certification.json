@@ -32,6 +32,15 @@
             "credentials": "https://www.dicoding.com/certificates/EYX4YVDQJZDL"
         }
     },{
+    },{
+        "name": "Learn C++ Basics",
+        "by": "Skilvul",
+        "image": "./certification/cpp-dasar.jpeg",
+        "category":"programming",
+        "links": {
+            "credentials": "https://skilvul.com/courses/c-plus-plus-dasar/student/clqncazqx0oh601ldzz8sa6nq"
+        }
+    },{
         "name": "Learn the Basics of Web Programming",
         "by": "Dicoding Indonesia",
         "image": "./certification/dasar-pemrograman-web.jpg",
