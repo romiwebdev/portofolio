@@ -10,13 +10,13 @@
             "code": "https://github.com/romincuy/sman3bojonegoro"
         }
     },{
-        "title": "Coffee Store",
+        "title": "Web Caffe",
         "tech": "HTML, CSS, & JS",
-        "image": "./assets/img/project/Coffee-Store.jpeg",
-        "desc":"This Website Coffee Store",
+        "image": "./assets/img/project/CaffeBrewBurst.jpeg",
+        "desc":"This Website Caffe Brew Burst",
         "links": {
-            "view": "https://romincuy.github.io/RomynCoffeeStore/",
-            "code": "https://github.com/romincuy/RomynCoffeeStore"
+            "view": "https://romincuy.github.io/CaffeBrewBurst/",
+            "code": "https://github.com/romincuy/CaffeBrewBurst"
         }
     },{
         "title": "Web Class",
