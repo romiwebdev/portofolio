@@ -25,6 +25,34 @@
     "links": {
       "credentials": "https://www.dicoding.com/certificates/1RXY0EL9KZVM"
     }
+  }
+,
+  {
+    "name": "Gold Medal of Informatics (OSN-AT)",
+    "by": "FOSNAS",
+    "image": "./certification/OSN-AT.jpg",
+    "category": "academic",
+    "links": {
+      "credentials": "https://app.puskanas.id/#piaghappyNlFiZC9JR3lxdjVIdWkwSzIrTEY2dz09"
+    }
+  },
+  {
+    "name": "Gold Medal of Informatics (ONSB)",
+    "by": "BRAINDICATOR",
+    "image": "./certification/ONSB.jpg",
+    "category": "academic",
+    "links": {
+      "credentials": "https://cbt.pusatprestasi.id/#piaghappyOHlyZXJKTlJrSzErTXZ0VUZ1TmdEZz09"
+    }
+  },
+  {
+    "name": "Gold Medal of Informatics (IOS)",
+    "by": "PRESMANESIA",
+    "image": "./certification/IOS.jpg",
+    "category": "academic",
+    "links": {
+      "credentials": "http://app.puskanas.id/"
+    }
   },
   {
     "name": "Learn JavaScript Programming Basics",
@@ -186,24 +214,6 @@
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/EYX46QJVRPDL"
-    }
-  },
-  {
-    "name": "Gold Medal of Informatics (OSN-AT)",
-    "by": "FOSNAS",
-    "image": "./certification/OSN-AT.jpg",
-    "category": "academic",
-    "links": {
-      "credentials": "https://app.puskanas.id/#piaghappyNlFiZC9JR3lxdjVIdWkwSzIrTEY2dz09"
-    }
-  },
-  {
-    "name": "Gold Medal of Informatics (ONSB)",
-    "by": "BRAINDICATOR",
-    "image": "./certification/ONSB.jpg",
-    "category": "academic",
-    "links": {
-      "credentials": "https://cbt.pusatprestasi.id/#piaghappyOHlyZXJKTlJrSzErTXZ0VUZ1TmdEZz09"
     }
   }
 ]
