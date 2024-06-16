@@ -1,5 +1,4 @@
 [
-    
     {
         "title": "Web School",
         "tech": "React JS & Bootstrap",
@@ -46,13 +45,13 @@
             "code": "https://github.com/romincuy/kantinsma3bjn"
         }
     },{
-        "title": "Vidio Player",
-        "tech": "HTML, CSS, JS",
-        "image": "./assets/img/project/vidio-player.jpeg",
-        "desc": "This is vidio player karawitan.",
+        "title": "Romi AI",
+        "tech": "JS & Gemini API",
+        "image": "./assets/img/project/romi-ai.png",
+        "desc": "this is a web Romi AI with Gemini API",
         "links": {
-            "view": "https://romincuy.github.io/vidio-karawitan/",
-            "code": "https://github.com/romincuy/vidio-karawitan"
+            "view": "https://romi-ai.vercel.app/",
+            "code": "https://github.com/romincuy"
         }
     },{
         "title": "Task List",
@@ -82,24 +81,14 @@
             "view": "https://romincuy.github.io/password-generator/",
             "code": "https://github.com/romincuy/password-generator"
         }
-    }
-    ,{
-        "title": "Form Registration",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/formRegistration.jpeg",
-        "desc": "this is a to form registration website",
-        "links": {
-            "view": "https://romincuy.github.io/formRegistration/",
-            "code": "https://github.com/romincuy/formRegistration"
-        }
     },{
-        "title": "Web Development Services",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/web-jasa.jpeg",
-        "desc":"This website offers website creation services",
+        "title": "Vidio Player",
+        "tech": "HTML, CSS, JS",
+        "image": "./assets/img/project/vidio-player.jpeg",
+        "desc": "This is vidio player karawitan.",
         "links": {
-            "view": "https://romincuy.github.io/web-development-services/",
-            "code": "https://github.com/romincuy/Web-development-services"
+            "view": "https://romincuy.github.io/vidio-karawitan/",
+            "code": "https://github.com/romincuy/vidio-karawitan"
         }
     }
 ]
