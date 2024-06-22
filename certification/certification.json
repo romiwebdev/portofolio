@@ -2,7 +2,7 @@
   {
     "name": "Learn to Responsive Web Design",
     "by": "FeeCodeCamp",
-    "image": "./certification/webResponsif.jpeg",
+    "image": "./assets/img/certification/webResponsif.jpeg",
     "category": "programming",
     "links": {
       "credentials": "https://www.freecodecamp.org/certification/romyn10/responsive-web-design"
@@ -11,7 +11,7 @@
   {
     "name": "Learn to Create Web Apps with React",
     "by": "Dicoding Indonesia",
-    "image": "./certification/react-dasar.jpg",
+    "image": "./assets/img/certification/react-dasar.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/07Z687WL2XQR"
@@ -20,7 +20,7 @@
   {
     "name": "Learn to Create a Web Front-End for Beginners",
     "by": "Dicoding Indonesia",
-    "image": "./certification/frond-end-pemula.jpg",
+    "image": "./assets/img/certification/frond-end-pemula.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/1RXY0EL9KZVM"
@@ -29,7 +29,7 @@
   {
     "name": "Learn JavaScript Programming Basics",
     "by": "Dicoding Indonesia",
-    "image": "./certification/dasar-javascript.jpg",
+    "image": "./assets/img/certification/dasar-javascript.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/EYX4YVDQJZDL"
@@ -38,7 +38,7 @@
   {
     "name": "Learn C++ Basics",
     "by": "Skilvul",
-    "image": "./certification/cpp-dasar.jpeg",
+    "image": "./assets/img/certification/cpp-dasar.jpeg",
     "category": "programming",
     "links": {
       "credentials": "https://skilvul.com/courses/c-plus-plus-dasar/student/clqncazqx0oh601ldzz8sa6nq"
@@ -47,7 +47,7 @@
   {
     "name": "Learn the Basics of Web Programming",
     "by": "Dicoding Indonesia",
-    "image": "./certification/dasar-pemrograman-web.jpg",
+    "image": "./assets/img/certification/dasar-pemrograman-web.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/53XE44V89ZRN"
@@ -56,7 +56,7 @@
   {
     "name": "Starting the Programming Basics to Become a Software Developer",
     "by": "Dicoding Indonesia",
-    "image": "./certification/software-development.png",
+    "image": "./assets/img/certification/software-development.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/81P23OO7JXOY"
@@ -65,7 +65,7 @@
   {
     "name": "Introduction to Programming Logic (Programming Logic 101)",
     "by": "Dicoding Indonesia",
-    "image": "./certification/programming-logic.png",
+    "image": "./assets/img/certification/programming-logic.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/MRZMQWY0NPYQ"
@@ -74,7 +74,7 @@
   {
     "name": "Software Engineering series: Frontend Development",
     "by": "MySkill",
-    "image": "./certification/Front-end.png",
+    "image": "./assets/img/certification/Front-end.png",
     "category": "programming",
     "links": {
       "credentials": "https://myskill.id/bootcamp/batch/Ooa4x9hEzhFxfD3w5YuM"
@@ -83,7 +83,7 @@
   {
     "name": "Front End Development - HTML",
     "by": "Great Learning",
-    "image": "./certification/Front-end-html.jpg",
+    "image": "./assets/img/certification/Front-end-html.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://olympus.mygreatlearning.com/courses/12761/certificate"
@@ -92,7 +92,7 @@
   {
     "name": "Front End Development - CSS",
     "by": "Great Learning",
-    "image": "./certification/Front-end-css.jpg",
+    "image": "./assets/img/certification/Front-end-css.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://olympus.mygreatlearning.com/courses/12800/certificate"
@@ -101,7 +101,7 @@
   {
     "name": "Learn to Introduction to Cyber Security",
     "by": "Cisco Networking Academy x IdCamp",
-    "image": "./certification/cyberSecurity.jpg",
+    "image": "./assets/img/certification/cyberSecurity.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.credly.com/go/u7lBCDZF"
@@ -110,7 +110,7 @@
   {
     "name": "Learn to Networking Basics",
     "by": "Cisco Networking Academy x IdCamp",
-    "image": "./certification/networkingBasics.jpg",
+    "image": "./assets/img/certification/networkingBasics.jpg",
     "category": "programming",
     "links": {
       "credentials": "https://www.credly.com/go/aPL4uPzO"
@@ -119,7 +119,7 @@
   {
     "name": "Learn Git Basics with GitHub",
     "by": "Dicoding Indonesia",
-    "image": "./certification/git.png",
+    "image": "./assets/img/certification/git.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/1OP80RQLQXQK"
@@ -128,7 +128,7 @@
   {
     "name": "Simple Coding",
     "by": "OpenLearn",
-    "image": "./certification/simple-coding.png",
+    "image": "./assets/img/certification/simple-coding.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.open.edu/openlearn/science-maths-technology/simple-coding/content-section-0"
@@ -137,7 +137,7 @@
   {
     "name": "An introduction to web applications architecture",
     "by": "OpenLearn",
-    "image": "./certification/web-architectur.png",
+    "image": "./assets/img/certification/web-architectur.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.open.edu/openlearn/science-maths-technology/an-introduction-web-applications-architecture/content-section-0"
@@ -146,7 +146,7 @@
   {
     "name": "Computer Basics",
     "by": "GCF Global",
-    "image": "./certification/Computer-Basic-1.png",
+    "image": "./assets/img/certification/Computer-Basic-1.png",
     "category": "programming",
     "links": {
       "credentials": "https://account.gcfglobal.org/verify/B_nkcwuTPCAcoZEC"
@@ -155,7 +155,7 @@
   {
     "name": "Internet Basics",
     "by": "GCF Global",
-    "image": "./certification/Internet-Basic.png",
+    "image": "./assets/img/certification/Internet-Basic.png",
     "category": "programming",
     "links": {
       "credentials": "https://account.gcfglobal.org/verify/mLmbYV7pWPLk6qrE"
@@ -164,7 +164,7 @@
   {
     "name": "Belajar Dasar Manajemen Proyek",
     "by": "Dicoding Indonesia",
-    "image": "./certification/management-project.png",
+    "image": "./assets/img/certification/management-project.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/6RPNW7VQ8P2M"
@@ -173,7 +173,7 @@
   {
     "name": "Learn Google Cloud Basics",
     "by": "Dicoding Indonesia",
-    "image": "./certification/google-cloud.png",
+    "image": "./assets/img/certification/google-cloud.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/N9ZO6NW28XG5"
@@ -182,7 +182,7 @@
   {
     "name": "Learn Basic Data Visualization",
     "by": "Dicoding Indonesia",
-    "image": "./certification/visualisasi-data.png",
+    "image": "./assets/img/certification/visualisasi-data.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/EYX46QJVRPDL"
@@ -191,7 +191,7 @@
   {
     "name": "Gold Medal of Informatics (IOS)",
     "by": "PRESMANESIA",
-    "image": "./certification/IOS.jpg",
+    "image": "./assets/img/certification/IOS.jpg",
     "category": "academic",
     "links": {
       "credentials": "http://app.puskanas.id/"
@@ -200,7 +200,7 @@
   {
     "name": "Gold Medal of Informatics (OSN-AT)",
     "by": "FOSNAS",
-    "image": "./certification/OSN-AT.jpg",
+    "image": "./assets/img/certification/OSN-AT.jpg",
     "category": "academic",
     "links": {
       "credentials": "https://app.puskanas.id/#piaghappyNlFiZC9JR3lxdjVIdWkwSzIrTEY2dz09"
@@ -209,7 +209,7 @@
   {
     "name": "Gold Medal of Informatics (ONSB)",
     "by": "BRAINDICATOR",
-    "image": "./certification/ONSB.jpg",
+    "image": "./assets/img/certification/ONSB.jpg",
     "category": "academic",
     "links": {
       "credentials": "https://cbt.pusatprestasi.id/#piaghappyOHlyZXJKTlJrSzErTXZ0VUZ1TmdEZz09"
