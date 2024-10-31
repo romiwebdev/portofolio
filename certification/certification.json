@@ -1,11 +1,11 @@
 [
   {
-    "name": "Learn to Back-End With Javascript",
+    "name": "Learn to Back-End with Javascript",
     "by": "ID Camp x Dicoding",
     "image": "./assets/img/certification/back-end-pemula.png",
     "category": "programming",
     "links": {
-      "credentials": "https://www.freecodecamp.org/certification/romyn10/responsive-web-design"
+      "credentials": "https://www.dicoding.com/certificates/JMZV4EONJXN9"
     }
   },{
     "name": "Learn to Responsive Web Design",
@@ -59,6 +59,15 @@
     "category": "programming",
     "links": {
       "credentials": "https://www.dicoding.com/certificates/53XE44V89ZRN"
+    }
+  },
+  {
+    "name": "Learn to Cloud Practitioner Essentials",
+    "by": "Dicoding Indonesia",
+    "image": "./assets/img/certification/cloud.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://www.dicoding.com/certificates/EYX4JGQG5ZDL"
     }
   },
   {
