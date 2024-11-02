@@ -110,6 +110,11 @@ html::-webkit-scrollbar-thumb {
   transform: rotate(0deg);
 }
 
+.current {
+  font-weight: bold; /* Contoh gaya untuk kelas current */
+  color: blue; /* Contoh warna untuk kelas current */
+}
+
 form .btn{
   font-size: 20px;
   padding:2px 8px;
@@ -149,21 +154,43 @@ form .btn{
   justify-content: center;
   align-items: center;
 }
-
-.home .content .image{
+.home .content .image {
   margin-left: 50px;
+  position: relative; /* Untuk overlay */
 }
+
 .home .content .image img {
   width: 360px;
-
   border-radius: 50%;
-  box-shadow: 0 3px 10px var(--danger);
+  border: 8px solid #2386F4; /* Border tebal dengan warna biru */
+  box-shadow: 0 3px 10px #2386F4; /* Mengganti warna bayangan dengan biru */
   cursor: pointer;
+  transition: transform 0.5s, box-shadow 0.5s, border-width 0.5s; /* Transisi lebih halus */
 }
-.home .content .image img:hover{
-  width: 380px;
-  transition: .5s;
-  box-shadow: 0 6px 20px var(--danger);
+
+.home .content .image:hover img {
+  transform: scale(1.1); /* Zoom gambar dan border saat hover */
+  border-width: 12px; /* Membesar border saat hover */
+  box-shadow: 0 6px 20px #2386F4; /* Bayangan saat hover dengan warna biru */
+}
+
+/* Overlay saat hover */
+.home .content .image::after {
+  content: '';
+  position: absolute;
+  top: 50%; /* Posisikan di tengah */
+  left: 50%; /* Posisikan di tengah */
+  width: 100%; /* Lebar overlay sama dengan gambar */
+  height: 100%; /* Tinggi overlay sama dengan gambar */
+  background: rgba(35, 134, 244, 0.5); /* Warna overlay sesuai dengan yang diminta */
+  opacity: 0;
+  transition: opacity 0.5s;
+  border-radius: 50%; /* Sesuaikan dengan bentuk gambar */
+  transform: translate(-50%, -50%); /* Pusatkan overlay */
+}
+
+.home .content .image:hover::after {
+  opacity: 1; /* Tampilkan overlay saat hover */
 }
 
 .home .content .intro h2 {
@@ -605,6 +632,8 @@ form .btn{
   height: 100%;
   object-fit: cover;
 }
+
+
 
 .project .container .content .cards .desc-content {
   height: 100%;

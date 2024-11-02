@@ -1,6 +1,6 @@
 // typing text hero
 const typed = new Typed(".typing-text", {
-  strings: ["Front-End Developer"],
+  strings: ["Full-Stack Developer"],
   loop: true,
   typeSpeed: 55,
   backSpeed: 25,
@@ -29,6 +29,42 @@ navToggler.addEventListener("click", function () {
   if (navBar.classList.contains("bg-transparent")) {
     navBar.classList.replace("bg-transparent", "navbar-color");
   } 
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+  const navLinks = document.querySelectorAll('.nav-links');
+
+  // Fungsi untuk mengatur kelas 'current' berdasarkan hash URL
+  function setCurrentLink() {
+      const currentHash = window.location.hash; // Ambil hash saat ini
+
+      // Jika tidak ada hash, set ke #home
+      if (!currentHash) {
+          window.location.hash = '#home'; // Set hash ke #home jika tidak ada
+      }
+
+      // Setelah hash ditetapkan, periksa dan set kelas 'current'
+      navLinks.forEach(link => {
+          if (link.getAttribute('href') === currentHash || (currentHash === '' && link.getAttribute('href') === '#home')) {
+              link.classList.add('current'); // Tambahkan kelas 'current' jika cocok
+          } else {
+              link.classList.remove('current'); // Hapus kelas 'current' jika tidak cocok
+          }
+      });
+  }
+
+  // Set kelas 'current' saat halaman dimuat
+  setCurrentLink();
+
+  navLinks.forEach(link => {
+      link.addEventListener('click', function(event) {
+          // Hapus kelas 'current' dari semua link
+          navLinks.forEach(nav => nav.classList.remove('current'));
+
+          // Tambahkan kelas 'current' pada link yang diklik
+          this.classList.add('current');
+      });
+  });
 });
 
 
@@ -72,6 +108,8 @@ function showCertification(certification) {
   });
   certificationContainer.innerHTML = certificationHTML;
 }
+
+
 let currentItemsProject = 5;
 function showProject(project) {
   let projectContainer = document.querySelector(".project .content");
@@ -118,14 +156,13 @@ fetchData("project").then((data) => {
   showProject(data);
 });
 
-// loadmore button
 const loadmore = document.querySelector(".loadmore-btn");
-
+const showless = document.querySelector(".showless-btn");
 let currentItems = 3;
-loadmore.addEventListener("click", () => {
-  const elementList = [
-    ...document.querySelectorAll(".certification .content .box"),
-  ];
+
+loadmore.addEventListener("click", (e) => {
+  e.preventDefault(); // Mencegah halaman bergeser
+  const elementList = [...document.querySelectorAll(".certification .content .box")];
 
   for (let i = currentItems; i < currentItems + 3; i++) {
     if (elementList[i]) {
@@ -137,7 +174,36 @@ loadmore.addEventListener("click", () => {
   if (currentItems >= elementList.length) {
     loadmore.classList.add("d-none");
   }
+
+  // Tampilkan tombol Show Less setelah Load More diklik
+  if (currentItems > 3) {
+    showless.classList.remove("d-none");
+  }
 });
+
+showless.addEventListener("click", (e) => {
+  e.preventDefault(); // Mencegah halaman bergeser
+  const elementList = [...document.querySelectorAll(".certification .content .box")];
+
+  if (currentItems > 3) {
+    for (let i = currentItems - 1; i >= currentItems - 3; i--) {
+      if (elementList[i]) {
+        elementList[i].classList.remove("d-block");
+      }
+    }
+    currentItems -= 3;
+  }
+
+  // Sembunyikan tombol Show Less jika elemen yang ditampilkan tinggal sedikit
+  if (currentItems <= 3) {
+    showless.classList.add("d-none");
+  }
+
+  // Pastikan tombol Load More muncul kembali jika item tersembunyi
+  loadmore.classList.remove("d-none");
+});
+
+
 
 // Viewall button
 const viewall = document.querySelector(".viewall-btn");
@@ -201,3 +267,24 @@ srtop.reveal(".home .github", { interval: 600 });
 srtop.reveal(".home .instagram", { interval: 600 });
 
 srtop.reveal(".about .cv-btn", { delay: 200 });
+
+
+function setActiveLink() {
+  const currentHash = window.location.hash;
+  console.log("Current Hash:", currentHash); // Debugging
+
+  // Jika tidak ada hash, set ke #home
+  if (!currentHash) {
+      window.location.hash = '#home';
+  }
+
+  navLinks.forEach(link => {
+      console.log("Link Href:", link.getAttribute('href')); // Debugging
+      if (link.getAttribute('href') === currentHash || (currentHash === '' && link.getAttribute('href') === '#home')) {
+          link.classList.add('active');
+          console.log("Set active:", link.getAttribute('href')); // Debugging
+      } else {
+          link.classList.remove('active');
+      }
+  });
+}
