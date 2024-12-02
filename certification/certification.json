@@ -46,7 +46,7 @@
   {
     "name": "Learn Backend Programming & Cyber Security",
     "by": "Udemy",
-    "image": "./assets/img/certification/be&cs.jpg",
+    "image": "./assets/img/certification/be&cs.png",
     "category": "programming",
     "links": {
       "credentials": "https://www.udemy.com/certificate/UC-1bbeaaaf-1d59-49ec-aa77-488cd430dae9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com"
@@ -55,7 +55,7 @@
   {
     "name": "Participated in Web Developer Series 7.0-Backend",
     "by": "Dibimbing",
-    "image": "./assets/img/certification/golang.jpg",
+    "image": "./assets/img/certification/golang.png",
     "category": "programming",
     "links": {
       "credentials": "https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/production/digital-skill-fair/5f67256e-19de-4a71-84a9-c31c2aa3673f.pdf"
