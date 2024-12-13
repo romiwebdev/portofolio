@@ -1,12 +1,22 @@
 [
     {
+        "title": "Resto Epicurean App",
+        "tech": "MERN",
+        "image": "https://raw.githubusercontent.com/romiwebdev/EpicureanApp-MERN/26d63361de64c790f8c023770378b3a855e6df91/imageFitur/menu.png",
+        "desc": "this is a web Resto Epicurean Culinary",
+        "links": {
+            "view": "https://epicureanculinary.vercel.app",
+            "code": "https://github.com/romiwebdev/EpicureanApp-MERN"
+        }
+    },
+    {
         "title": "Rapor Average Calculator",
         "tech": "HTML, CSS, & JS",
         "image": "./assets/img/project/count-rapor.png",
         "desc": "this is a web Rapor Average Calculato",
         "links": {
             "view": "https://halopintar.vercel.app/",
-            "code": "https://github.com/romincuy/counting-rapor"
+            "code": "https://github.com/romiwebdev/counting-rapor"
         }
     },{
         "title": "Web Road PTN 2025",
@@ -15,7 +25,7 @@
         "desc": "this is a web Road To PTN 2025",
         "links": {
             "view": "https://roadtoptn.vercel.app/",
-            "code": "https://github.com/romincuy/Web-Road-To-PTN-2025"
+            "code": "https://github.com/romiwebdev/Web-Road-To-PTN-2025"
         }
     },{
         "title": "Web Class",
@@ -24,7 +34,7 @@
         "desc":"This Website Class XI-3 SMAN 3 Bojonegoro",
         "links": {
             "view": "https://infinithreesmaga.vercel.app/",
-            "code": "https://github.com/romincuy/infinithree"
+            "code": "https://github.com/romiwebdev/infinithree"
         }
     },{
         "title": "Portfolio Website",
@@ -33,7 +43,7 @@
         "desc": "This is my project for personal portfolio.",
         "links": {
             "view": "https://romincuy.github.io/portofolio/",
-            "code": "https://github.com/romincuy/portofolio"
+            "code": "https://github.com/romiwebdev/portofolio"
         }
     },{
         "title": "E-Kantin",
@@ -42,7 +52,7 @@
         "desc":"This Website E-Kantin SMAN 3 Bojonegoro",
         "links": {
             "view": "http://ekantinsmaga.wuaze.com/",
-            "code": "https://github.com/romincuy/kantinsma3bjn"
+            "code": "https://github.com/romiwebdev/kantinsma3bjn"
         }
     },{
         "title": "Web School",
@@ -51,7 +61,7 @@
         "desc":"This Website SMAN 3 Bojonegoro",
         "links": {
             "view": "https://romincuy.github.io/sman3bojonegoro/",
-            "code": "https://github.com/romincuy/sman3bojonegoro"
+            "code": "https://github.com/romiwebdev/sman3bojonegoro"
         }
     },{
         "title": "Web Caffe",
@@ -60,7 +70,7 @@
         "desc":"This Website Caffe Brew Burst",
         "links": {
             "view": "https://romincuy.github.io/CaffeBrewBurst/",
-            "code": "https://github.com/romincuy/CaffeBrewBurst"
+            "code": "https://github.com/romiwebdev/CaffeBrewBurst"
         }
     },{
         "title": "Romi AI",
@@ -69,7 +79,7 @@
         "desc": "this is a web Romi AI with Gemini API",
         "links": {
             "view": "https://romi-ai.vercel.app/",
-            "code": "https://github.com/romincuy"
+            "code": "https://github.com/romiwebdev"
         }
     },{
         "title": "Task List",
@@ -78,7 +88,7 @@
         "desc": "this is a to do list website",
         "links": {
             "view": "https://romincuy.github.io/daftarTugas/",
-            "code": "https://github.com/romincuy/daftarTugas"
+            "code": "https://github.com/romiwebdev/daftarTugas"
         }
     },
     {
