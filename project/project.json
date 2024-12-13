@@ -60,7 +60,7 @@
         "image": "./assets/img/project/sma3.jpeg",
         "desc":"This Website SMAN 3 Bojonegoro",
         "links": {
-            "view": "https://sman3bojonegoro.vercel.app",
+            "view": "https://romiwebdev.github.io/sman3bojonegoro",
             "code": "https://github.com/romiwebdev/sman3bojonegoro"
         }
     },{
