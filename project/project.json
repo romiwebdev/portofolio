@@ -69,7 +69,7 @@
         "image": "./assets/img/project/CaffeBrewBurst.jpeg",
         "desc":"This Website Caffe Brew Burst",
         "links": {
-            "view": "https://caffebrew.vercel.app",
+            "view": "https://romiwebdev.io/CaffeBrewBurst",
             "code": "https://github.com/romiwebdev/CaffeBrewBurst"
         }
     },{
@@ -97,7 +97,7 @@
         "image": "./assets/img/project/password-gen.jpeg",
         "desc":"This website can generate you a random password and you can download it",
         "links": {
-            "view": "https://passwordgenerate.vercel.app",
+            "view": "https://passwordgenerate-weld.vercel.app/",
             "code": "https://github.com/romincuy/password-generator"
         }
     }
