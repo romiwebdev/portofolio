@@ -42,7 +42,7 @@
         "image": "./assets/img/project/romin-portofolio.jpeg",
         "desc": "This is my project for personal portfolio.",
         "links": {
-            "view": "https://romincuy.github.io/portofolio/",
+            "view": "https://romifullstack.vercel.app",
             "code": "https://github.com/romiwebdev/portofolio"
         }
     },{
@@ -60,7 +60,7 @@
         "image": "./assets/img/project/sma3.jpeg",
         "desc":"This Website SMAN 3 Bojonegoro",
         "links": {
-            "view": "https://romincuy.github.io/sman3bojonegoro/",
+            "view": "https://sman3bojonegoro.vercel.app",
             "code": "https://github.com/romiwebdev/sman3bojonegoro"
         }
     },{
@@ -69,7 +69,7 @@
         "image": "./assets/img/project/CaffeBrewBurst.jpeg",
         "desc":"This Website Caffe Brew Burst",
         "links": {
-            "view": "https://romincuy.github.io/CaffeBrewBurst/",
+            "view": "https://caffebrew.vercel.app",
             "code": "https://github.com/romiwebdev/CaffeBrewBurst"
         }
     },{
@@ -87,7 +87,7 @@
         "image": "./assets/img/project/daftar-tugas.jpeg",
         "desc": "this is a to do list website",
         "links": {
-            "view": "https://romincuy.github.io/daftarTugas/",
+            "view": "https://tugasku.vercel.app",
             "code": "https://github.com/romiwebdev/daftarTugas"
         }
     },
@@ -97,7 +97,7 @@
         "image": "./assets/img/project/password-gen.jpeg",
         "desc":"This website can generate you a random password and you can download it",
         "links": {
-            "view": "https://romincuy.github.io/password-generator/",
+            "view": "https://passwordgenerate.vercel.app",
             "code": "https://github.com/romincuy/password-generator"
         }
     }
