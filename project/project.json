@@ -12,7 +12,7 @@
     {
         "title": "Motor Rental Web",
         "tech": "DJANGO",
-        "image": "https://raw.githubusercontent.com/romiwebdev/screenshot/refs/heads/main/django/Screenshot%20Capture%20-%202024-12-15%20-%2017-45-36.png?token=GHSAT0AAAAAAC3XZMJ2S5AWXK6YKMMTY7IIZ2754HA",
+        "image": "./assets/img/project/rental.png",
         "desc": "this is a web rental motor xpress",
         "links": {
             "view": "https://github.com/romiwebdev/rentalmotor-django-app",
@@ -22,7 +22,7 @@
     {
         "title": "Aula Booking Website",
         "tech": "DJANGO",
-        "image": "https://raw.githubusercontent.com/romiwebdev/screenshot/refs/heads/main/django/Screenshot%20Capture%20-%202024-12-15%20-%2018-21-20.png?token=GHSAT0AAAAAAC3XZMJ3W75AXMLS5XLFON42Z27547Q",
+        "image": "./assets/img/project/aula.png",
         "desc": "this is a web Resto Epicurean Culinary",
         "links": {
             "view": "https://github.com/romiwebdev/aula-manager-django",
