@@ -1,5 +1,15 @@
 [
     {
+        "title": "Blog Platform with Laravel",
+        "tech": "Laravel",
+        "image": "./assets/img/project/inkspire.png", 
+        "desc": "A platform built with Laravel to allow writers to share their work, with features like post management, user roles, and blog analytics.",
+        "links": {
+            "view": "https://github.com/romiwebdev/inkspire-blogs-laravel",
+            "code": "https://github.com/romiwebdev/inkspire-blogs-laravel"
+        }
+    },
+    {
         "title": "Resto Epicurean App",
         "tech": "MERN",
         "image": "https://raw.githubusercontent.com/romiwebdev/EpicureanApp-MERN/26d63361de64c790f8c023770378b3a855e6df91/imageFitur/menu.png",
