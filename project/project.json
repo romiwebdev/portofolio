@@ -1,7 +1,7 @@
 [
     {
         "title": "Blog Platform with Laravel",
-        "tech": "Laravel",
+        "tech": "LARAVEL",
         "image": "./assets/img/project/inkspire.png", 
         "desc": "A platform built with Laravel to allow writers to share their work, with features like post management, user roles, and blog analytics.",
         "links": {
