@@ -1,5 +1,15 @@
 [
     {
+        "title": "Web Films Review TheMovieMeter",
+        "tech": "LARAVEL",
+        "image": "./assets/img/project/themoviemeter.jpg", 
+        "desc": "TheMovieMeter is an interactive film review platform where users can explore, rate, and review movies.",
+        "links": {
+            "view": "https://github.com/romiwebdev/films-review",
+            "code": "https://themoviemeter.laravelsanbercode.my.id"
+        }
+    },
+    {
         "title": "Blog Platform with Laravel",
         "tech": "LARAVEL",
         "image": "./assets/img/project/inkspire.png", 

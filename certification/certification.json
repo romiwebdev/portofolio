@@ -1,5 +1,23 @@
 [
   {
+    "name": "Fullstack Web Developer",
+    "by": "Talenthub Indonesia",
+    "image": "./assets/img/certification/talenthub.jpg",
+    "category": "programming",
+    "links": {
+      "credentials": "https://drive.google.com/drive/folders/1_uqm69NHl03B6WyLA59ARxeot3I9xK6n?usp=sharing"
+    }
+  },
+  {
+    "name": "Junior Web Developer",
+    "by": "BNSP",
+    "image": "./assets/img/certification/telkomdigiup.jpg",
+    "category": "programming",
+    "links": {
+      "credentials": "https://drive.google.com/drive/folders/1BmJxWRRMbJD4nwvRHR1d77NM-0q-vQOH?usp=sharing"
+    }
+  },
+  {
     "name": "Learn to Back-End with Javascript",
     "by": "ID Camp x Dicoding",
     "image": "./assets/img/certification/back-end-pemula.png",
