@@ -5,8 +5,8 @@
         "image": "./assets/img/project/themoviemeter.jpg", 
         "desc": "TheMovieMeter is an interactive film review platform where users can explore, rate, and review movies.",
         "links": {
-            "view": "https://github.com/romiwebdev/films-review",
-            "code": "https://themoviemeter.laravelsanbercode.my.id"
+            "view": "https://themoviemeter.laravelsanbercode.my.id",
+            "code": "https://github.com/romiwebdev/films-review"
         }
     },
     {
@@ -15,7 +15,7 @@
         "image": "./assets/img/project/inkspire.png", 
         "desc": "A platform built with Laravel to allow writers to share their work, with features like post management, user roles, and blog analytics.",
         "links": {
-            "view": "https://github.com/romiwebdev/inkspire-blogs-laravel",
+            "view": "https://inkspire.laravelsanbercode.my.id/",
             "code": "https://github.com/romiwebdev/inkspire-blogs-laravel"
         }
     },
